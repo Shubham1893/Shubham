@@ -1,0 +1,49 @@
+/*#div2{ 
+    height:100%;
+    width:100%;
+    background-image: url(1223.jpg);
+    background-attachment: scroll;
+}*/
+/*#div1{
+    height:200px;
+    width:200px;
+    background-color:rgb(184, 118, 246);
+    border-width: 2px;
+    border-color:black;
+    border-style:solid;
+    border-radius: 2px;
+    margin:50px 200px ;
+}
+#div3{
+    display :inline;
+}*/
+
+#div1{
+    background-color:red;
+    height:20px;
+    width:200px;
+}
+#div2{
+    background-color: blue;
+    height:20px;
+    width:200px;
+}
+span{
+    display:block;
+}
+ div{
+    display:inline-block;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
